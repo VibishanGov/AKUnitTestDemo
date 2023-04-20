@@ -1,5 +1,8 @@
-﻿namespace shape
+﻿using System;
+
+namespace shape
 {
+    
     public class Shape
     {
         public class Rectangle
@@ -39,22 +42,14 @@
                 }
             }
 
-            // public override int GetHashCode()
-            // {
-            //     return base.GetHashCode();
-            // }
+            public override int GetHashCode()
+            {
+                 return base.GetHashCode();
+            }
 
             public Nullable<double> CalculateArea()
             {
-                // try{
-                //
-                //     double area = width*length;
-                //     return area;
-                //
-                // }catch (ArgumentOutOfRangeException)
-                // {
-                //     throw new ArgumentOutOfRangeException($"{nameof(width)} or {nameof(length)} cannot be 0 or negative");
-                // }
+              
 
                 if (width > 0 && length > 0)
                 {

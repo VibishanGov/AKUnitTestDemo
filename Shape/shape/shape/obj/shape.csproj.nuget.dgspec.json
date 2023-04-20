@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\shape\\shape.csproj": {}
+    "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\shape\\shape.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\shape\\shape.csproj": {
+    "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\shape\\shape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\shape\\shape.csproj",
+        "projectUniqueName": "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\shape\\shape.csproj",
         "projectName": "shape",
-        "projectPath": "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\shape\\shape.csproj",
+        "projectPath": "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\shape\\shape.csproj",
         "packagesPath": "C:\\Users\\Vibishan.Govender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\shape\\obj\\",
+        "outputPath": "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\shape\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

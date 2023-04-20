@@ -10,3 +10,15 @@ C:\Users\Vibishan.Govender\Desktop\Shape\shape\shape\obj\Debug\net7.0\shape.dll
 C:\Users\Vibishan.Govender\Desktop\Shape\shape\shape\obj\Debug\net7.0\refint\shape.dll
 C:\Users\Vibishan.Govender\Desktop\Shape\shape\shape\obj\Debug\net7.0\shape.pdb
 C:\Users\Vibishan.Govender\Desktop\Shape\shape\shape\obj\Debug\net7.0\ref\shape.dll
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\bin\Debug\net7.0\shape.deps.json
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\bin\Debug\net7.0\shape.dll
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\bin\Debug\net7.0\shape.pdb
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\shape.csproj.AssemblyReference.cache
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\shape.AssemblyInfoInputs.cache
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\shape.AssemblyInfo.cs
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\shape.csproj.CoreCompileInputs.cache
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\shape.dll
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\refint\shape.dll
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\shape.pdb
+C:\Users\Vibishan.Govender\Desktop\AKUnitTestDemo\Shape\shape\shape\obj\Debug\net7.0\ref\shape.dll

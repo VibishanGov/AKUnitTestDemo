@@ -6136,11 +6136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\Shape.test\\Shape.test.csproj",
+      "projectUniqueName": "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\Shape.test\\Shape.test.csproj",
       "projectName": "Shape.test",
-      "projectPath": "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\Shape.test\\Shape.test.csproj",
+      "projectPath": "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\Shape.test\\Shape.test.csproj",
       "packagesPath": "C:\\Users\\Vibishan.Govender\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\Shape.test\\obj\\",
+      "outputPath": "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\Shape.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6161,8 +6161,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\shape\\shape.csproj": {
-              "projectPath": "C:\\Users\\Vibishan.Govender\\Desktop\\Shape\\shape\\shape\\shape.csproj"
+            "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\shape\\shape.csproj": {
+              "projectPath": "C:\\Users\\Vibishan.Govender\\Desktop\\AKUnitTestDemo\\Shape\\shape\\shape\\shape.csproj"
             }
           }
         }
